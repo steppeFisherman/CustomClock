@@ -13,7 +13,7 @@ _Основные требования:_
    4. Не использовать Jetpack Compose UI.
 ___
 
-видео: [https://drive.google.com/file/d/1YqQszVvDLhcd6d9FElCT0J2EbW3u3zTk/view?usp=sharing]
+видео: [https://drive.google.com/file/d/1y7KrBvlvFN0dRrBcHGshUYhGTeaL4Wzn/view?usp=drive_link]
 
 ![m_Screenshot_20240319_161243).png](gradle%2Fm_Screenshot_20240319_161243%29.png)
 ![m_Screenshot_20240319_161311.png](gradle%2Fm_Screenshot_20240319_161311.png)
