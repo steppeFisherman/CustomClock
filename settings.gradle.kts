@@ -21,3 +21,4 @@ dependencyResolutionManagement {
 
 rootProject.name = "CustomClock"
 include(":app")
+include(":clockcustomview")
