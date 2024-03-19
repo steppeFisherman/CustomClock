@@ -1,4 +1,4 @@
-<resources xmlns:tools="http://schemas.android.com/tools">
+<resources>
     <!-- Base application theme. -->
     <style name="Base.Theme.CustomClock" parent="Theme.Material3.DayNight.NoActionBar">
         <!-- Customize your light theme here. -->
@@ -6,4 +6,12 @@
     </style>
 
     <style name="Theme.CustomClock" parent="Base.Theme.CustomClock" />
+
+    <style name="clockView">
+        <item name="android:layout_width">@dimen/clock_width</item>
+        <item name="android:layout_height">@dimen/clock_height</item>
+        <item name="android:clickable">true</item>
+        <item name="android:focusable">true</item>
+        <item name="android:background">?attr/selectableItemBackgroundBorderless</item>
+    </style>
 </resources>

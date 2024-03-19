@@ -1,3 +1,10 @@
 <resources>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
     <string name="app_name">CustomClock</string>
+    <string name="Clock">Часы</string>
+    <string name="clock_colors">Разные расцветки</string>
+    <string name="fullscreen_clock">Часы на весь экран</string>
+    <string name="custom_clock_color_choice">Выбор своего стиля часов</string>
+    <string name="fullscreen">На весь экран</string>
+    <string name="templates">Шаблоны</string>
 </resources>
